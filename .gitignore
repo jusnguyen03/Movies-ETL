@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding additional files.
+movies_metadata.csv
+ratings.csv
+config.py
+wikipedia.movies.json
+
+
+
 # C extensions
 *.so
 
