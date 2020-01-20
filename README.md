@@ -21,4 +21,5 @@ The goals for this challenge are:
   3. Clean and transform the data automatically using Pandas and regular expressions.
   4. Load new data into PostgreSQL.
 
-## Challenge Summary
+## Challenge Submission
+Please check file "Challenge.py" in the repository for code
